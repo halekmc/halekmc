@@ -1,11 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Hale <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">Deep Learning and iOS developer from Turkey</h3>
+<h3 align="center">Mobile developer from Turkey</h3>
 
-- 🔭 I’m currently working on Deep Learning & Computer Vision
-- 💼 Software Developer at [Konya Science Center](https://www.kbm.org.tr/)
-- 🌱 I’m currently learning Swift
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on Mobile Development (iOS & Flutter)
+- 🌱 I’m currently learning 
 - 💬 Ask me about anything [here](halekmc@gmail.com)
 
 
@@ -49,4 +47,3 @@
 
 ------
 
-[BrantLauro](https://github.com/halekmc)
