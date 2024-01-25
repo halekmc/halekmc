@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Hale <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">Mobile developer from Turkey</h3>
+<h3 align="center">Data Scientist from Turkey</h3>
 
-- 🔭 I’m currently working on Mobile Development (iOS & Flutter)
-- 🌱 I’m currently learning 
+- 🔭 I’m currently working on IBTech
+- 🌱 I’m currently learning Apache Kafka 
 - 💬 Ask me about anything [here](halekmc@gmail.com)
 
 
@@ -22,8 +22,6 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center"> 
-    <img src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202060logosocialsocialmediaswift-115628_115673.png" alt="swift" width="40" height="40"/> 
-  </a>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
     <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tensorflow_logo_icon_168671.png" alt="tensorflow" width="40" height="40"/> 
